@@ -1,0 +1,11 @@
+STANDARD OPERATING PROCEDURE: #SOP-2025-07
+TITLE: REFINERY PIPELINE INSPECTION & OPERATIONAL CLEARANCE POLICY
+ORGANIZATION: NOVA INDUSTRIAL SYSTEMS
+
+SECTION 4.2: WALL THINNING & PRESSURE BOUND TOLERANCES
+1. Wall thinning <= 10.0%: Unconditional operational clearance.
+2. Wall thinning > 10.0% and <= 15.0%: Conditional operational clearance permitted subject to scheduled seal replacement within 30 days and monthly ultrasonic inspection logs.
+3. Wall thinning > 15.0%: Immediate shutdown required for emergency line replacement.
+
+SECTION 5.1: APPROVAL REQUIREMENTS
+All conditional clearance notes must be verified against ultrasonic logs and signed by the Chief Mechanical Engineer.

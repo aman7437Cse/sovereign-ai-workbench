@@ -1,0 +1,10 @@
+NOVA INDUSTRIAL SYSTEMS - REFINERY UNIT 07
+Ultrasonic & Mechanical Inspection Report
+Date: 2025-08-20 | Inspector: J. Miller, Lead Mechanical Engineer
+Equipment Identifier: Pipeline Loop 4B / Secondary Pressure Valve V-102
+
+Observation Summary:
+- Ultrasonic wall thickness measurement recorded at 8.76 mm (Nominal Baseline: 10.0 mm).
+- Localized wall thinning calculated at 12.4%.
+- Secondary Pressure Valve V-102 operating pressure measured at 41.8 bar (Max Allowable Limit: 45.0 bar).
+- Micro-visual check shows minor surface oxidation on lower flange body; zero active fluid leakage detected.
